@@ -1,0 +1,41 @@
+.card-header {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.botao__lilas {
+    background-color: #9353FF;
+    border: none;
+}
+
+.facilidades {
+    background-color: #000000;
+}
+
+.texto {
+    color: #FFFFFF;
+}
+
+.divs__facilidades {
+    width: 325px;
+}
+
+
+.verde__limao {
+    color: #DAFF01;
+}
+
+.texto__menor {
+    font-size: 13px;
+}
+
+.rodape {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+@media (min-width: 1440px) {
+    .img {
+        width: 100%;
+    }
+}
